@@ -5,6 +5,7 @@ This small project aims to answer questions by both Python and SQL
 If you want to practice along, please also download the northwind csv file too
 
 Finding:
+
 1)The range of order date is from 1996-07-04 tp 1998-05-06
 
 2)The total sale amount is $ 1,354,458.6 
